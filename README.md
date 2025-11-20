@@ -1,4 +1,4 @@
-# 📊 Análise Consolidada de Vendas e Devoluções em Power BI
+# 📊 Power BI: Análise Consolidada de Vendas e Devoluções
 
 Este projeto demonstra a construção de um **Dashboard Interativo** de Business Intelligence (BI) no **Microsoft Power BI**, focado na análise de desempenho de vendas, faturamento e incidência de devoluções de produtos.
 
